@@ -1,3 +1,4 @@
+//Hola, este es un comentario
 $(document).ready(function() {
 // Create a function that creates the start button and initial screen
 

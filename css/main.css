@@ -22,7 +22,7 @@
 }
 
 .answer:hover {
-  background: pink;
+  background: red;
 }
 
 .answer {
@@ -51,6 +51,6 @@
 }
 
 body {
-  background-color: #DD0506;
-  color: white;
+  background-color: pink;
+  color:skyblue;
 }
